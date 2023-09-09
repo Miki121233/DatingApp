@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "djRkp1FCTqbJqDSukTwNbLwjevyU5tR2u7Xp91k0Ibr4ngUn8h5WacI/wYovBmpJ5eqoaTEgS+5xxy7yRuVvSw==",
+  "dgSpecHash": "cn90virjwE5Lk771NYMCeNGBZ9BR2NQBOvWyxJfISH9gmtVvd3v5JhEp24GytucKHposCvAaqqcH4gEXnIuwAg==",
   "success": true,
   "projectFilePath": "E:\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\MPR21\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\MPR21\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\MPR21\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\MPR21\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\MPR21\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\MPR21\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\MPR21\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",

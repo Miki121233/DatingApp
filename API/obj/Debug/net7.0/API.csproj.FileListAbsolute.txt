@@ -69,3 +69,5 @@ E:\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 E:\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 E:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+E:\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
