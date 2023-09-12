@@ -71,3 +71,5 @@ E:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 E:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 E:\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+E:\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
