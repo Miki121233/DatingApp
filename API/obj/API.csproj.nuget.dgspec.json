@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DatingApp\\API\\API.csproj": {}
+    "e:\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\DatingApp\\API\\API.csproj": {
+    "e:\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "e:\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\DatingApp\\API\\API.csproj",
+        "projectPath": "e:\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\MPR21\\.nuget\\packages\\",
-        "outputPath": "E:\\DatingApp\\API\\obj\\",
+        "outputPath": "e:\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MPR21\\AppData\\Roaming\\NuGet\\NuGet.Config",
